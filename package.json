@@ -1,0 +1,27 @@
+{
+  "name": "first-preact",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3000",
+  "dependencies": {
+    "@just-boris/preact-scripts": "1.1.4",
+    "jsdom": "^14.0.0",
+    "preact": "^8.4.2",
+    "preact-compat": "^3.18.4",
+    "preact-redux": "^2.0.3",
+    "preact-router": "^2.6.1",
+    "preact-sockette": "^1.0.0",
+    "react-sketch": "^0.5.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^3.2.0"
+  }
+}
