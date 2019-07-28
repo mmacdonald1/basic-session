@@ -1,7 +1,10 @@
 # Basic Example of Express-Session Login
 An experiment with Preact and Express-Session to create a basic login logout interface.
-![Login](https://i.imgur.com/3uYQcC1.png "Login")
-![Logout](https://i.imgur.com/74XZGat.png "Logout")
+
+
+<img src="https://i.imgur.com/3uYQcC1.png" alt="Login" width="250px"/>
+<img src="https://i.imgur.com/74XZGat.png" alt="Logout" width="250px"/>
+
 
 ## Getting Started
 
